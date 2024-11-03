@@ -1,0 +1,136 @@
+    1  whoami
+    2  clear
+    3  cd../
+    4  ls
+    5  pwd
+    6  ls
+    7  systeminfo
+    8  clear
+    9  ls-l
+   10  ls-1
+   11  help
+   12  Is -a
+   13  ls -a
+   14  grep -0
+   15  pwd
+   16  ls -l
+   17  ls -1hSr
+   18  clear
+   19  pwd
+   20  cd..ls -l
+   21  cd..
+   22  pwd
+   23  cd/c/Users
+   24  pwd
+   25  cd/ c/
+   26  cd
+   27  cd../
+   28  cd ..
+   29  cd ..
+   30  cd /c/All Users/Default/
+   31  ls
+   32  help
+   33  clear
+   34  help
+   35  ls --help
+   36  ls
+   37  cd goitpractice/
+   38  cd ..
+   39  cd ~
+   40  cd ..
+   41  cd /c/Users
+   42  cd /c/Users/Documents/
+   43  cs..
+   44  pwd
+   45  cd HP/
+   46  cd goitpractice/
+   47  ls -l
+   48  touch file.txt
+   49  ls -l
+   50  vim file.txt
+   51  vim file2.txt
+   52  nano file2.txt
+   53  nano file.txt
+   54  nano file2.txt
+   55  cat file2.txt
+   56  cat file.txt
+   57  rm file.txt
+   58  ping google.com
+   59  date
+   60  systeminfo
+   61  ls -l
+   62  whoami
+   63  df -h
+   64  git confiq
+   65  git config
+   66  git config --global user.name "Iryna Zeleniuk"
+   67  git config --global user.email iryna.zeleniuk11@gmail.com
+   68  git clone https://github.com/iryna1108/goitpro.git
+   69  ls -l
+   70  git config --global user.name "iryna1108"
+   71  git config --global user.email iryna.zeleniuk11@gmail.com
+   72  git clone https://github.com/iryna1108/goitpro.git
+   73  git status
+   74  -c && rm ~/.bash_history
+   75  -c && rm ~/.bash_history
+   76  git config --global user.name "iryna1108"
+   77  git config --global user.email iryna.zeleniuk11@gmail.com
+   78  git clone https://github.com/iryna1108/HW_10.git
+   79  ls -l
+   80  cd HW_10/
+   81  ls -l
+   82  touch text_ignore.txt
+   83  rm text_ignore.txt
+   84  touch text_ignore.txt
+   85  rm text_ignore.txt
+   86  touch .gitignore
+   87  git status
+   88  git add .gitignore
+   89  git status
+   90  ls -l
+   91  git commit -m "Add .gitignore"
+   92  touch .gitignore
+   93  git add .gitignore
+   94  git status
+   95  ls -l
+   96  git commit -m "Add .gitignore"
+   97  git push origin main
+   98  ls -l
+   99  ls'
+ls
+ls - l
+  100  l -a
+  101  ls -a
+  102  ls -la
+  103  nano .gitignore
+  104  vim .gitignore
+  105  nano .gitignore
+  106  git status
+  107  git add .
+  108  git status
+  109  nano .gitignore
+  110  git status
+  111  git add .
+  112  git status
+  113  git commint -m "added new file"
+  114  git commit -m "added new file"
+  115  touch main_test.txt
+  116  git add .
+  117  git commit -m "added new file2"
+  118  git log
+  119  git checkout -b develop
+  120  touch develop_test.txt
+  121  git add .
+  122  git commit -m "added develop_test.txt file"
+  123  vim develop_test.txt
+  124  nano develop_test.txt
+  125  git status
+  126  git add .
+  127  git commit -m "modified develop_test.txt"
+  128  git checkout main
+  129  git merge branch
+  130  git merge develop
+  131  git log
+  132  git command_list.csv
+  133  command_list.csv
+  134  history > command_list.csv
